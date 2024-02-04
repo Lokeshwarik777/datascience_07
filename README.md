@@ -1,4 +1,3 @@
-# datascience_07
 
 ```python
 def searchMatrix(matrix, target):
